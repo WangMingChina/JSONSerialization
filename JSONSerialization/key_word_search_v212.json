@@ -1,0 +1,384 @@
+{
+  "data": {
+    "product": {
+      "commonProductVOList": [
+        {
+          "activityLabels": ["预售","每满100减30","以旧换新","以旧换新","以旧换新"],
+          "activityType": "",
+          "downAndUpStatus": true,
+          "inStore": true,
+          "inventory": "998",
+          "marketPrice": "0.30",
+          "materialCode": "KB359N02600",
+          "newProduct": false,
+          "originalPrice": "",
+          "productAttribute": [],
+          "productId": "2002987405",
+          "productName": "[测试售后商品]睡梦星变频冷暖大1匹1级能效挂机空调 KFR-26GW/\u002826599\u0029FNhBc-B1\u0028WIFI\u0029\u0028皓雪白\u0029",
+          "salesVolume": "100322",
+          "selfRunFlag": "20",
+          "shopId": "2000001394",
+          "skuId": "2000318651",
+          "skuState": "4",
+          "skuStatus": "1",
+          "slogan": "格力衡温立体送风，18分贝低噪音，智能光敏传感，56℃净菌自洁，60℃强劲制冷",
+          "thumbUrl": "/gree-mall-v3/2022/8/31/59f624c034f143f68ad5d57bed32c91a.jpg"
+        },
+        {
+          "activityLabels": [],
+          "activityType": "30",
+          "downAndUpStatus": true,
+          "inStore": true,
+          "inventory": "92",
+          "marketPrice": "596",
+          "materialCode": "AF123456789",
+          "newProduct": false,
+          "originalPrice": "",
+          "productAttribute": [
+            "商品列表属1",
+            "商品列表属2",
+            "商品列表属3"
+          ],
+          "productId": "2002988091",
+          "productName": "1123满减活动测试商品244",
+          "salesVolume": "99999",
+          "selfRunFlag": "20",
+          "shopId": "2000001394",
+          "skuId": "2000319819",
+          "skuState": "4",
+          "skuStatus": "1",
+          "slogan": "测试商品",
+          "thumbUrl": "/gree-mall-v3/2023/3/1/4a76256a1604437a8e1c9137ba244885.jpg"
+        },
+        {
+          "activityLabels": [],
+          "activityType": "",
+          "downAndUpStatus": true,
+          "inStore": true,
+          "inventory": "1",
+          "marketPrice": "400",
+          "materialCode": "AF123456789",
+          "newProduct": false,
+          "originalPrice": "999",
+          "productAttribute": [],
+          "productId": "2002988095",
+          "productName": "满减活动测试商品-勿用与其他活动3",
+          "salesVolume": "50000",
+          "selfRunFlag": "20",
+          "shopId": "2000001394",
+          "skuId": "2000319826",
+          "skuState": "4",
+          "skuStatus": "1",
+          "slogan": "测试商品",
+          "thumbUrl": "/gree-mall-v3/2023/3/2/ecc7dccc433d45fc8f6f81031b676cf3.jpg"
+        },
+        {
+          "activityLabels": [],
+          "activityType": "",
+          "downAndUpStatus": true,
+          "inStore": true,
+          "inventory": "10000",
+          "marketPrice": "300",
+          "materialCode": "AF123456789",
+          "newProduct": false,
+          "originalPrice": "999",
+          "productAttribute": [],
+          "productId": "2002988095",
+          "productName": "满减活动测试商品-勿用与其他活动2",
+          "salesVolume": "50000",
+          "selfRunFlag": "20",
+          "shopId": "2000001394",
+          "skuId": "2000319825",
+          "skuState": "4",
+          "skuStatus": "1",
+          "slogan": "测试商品",
+          "thumbUrl": "/gree-mall-v3/2023/3/2/e1d3d130b7bd4b20988f613c7e4dbb55.jpg"
+        },
+        {
+          "activityLabels": [
+            "以旧换新"
+          ],
+          "activityType": "50",
+          "downAndUpStatus": true,
+          "inStore": true,
+          "inventory": "1090",
+          "marketPrice": "0.10",
+          "materialCode": "KB359N02600",
+          "newProduct": false,
+          "originalPrice": "0.10",
+          "productAttribute": [],
+          "productId": "2002987360",
+          "productName": "测试-商品售后4",
+          "salesVolume": "20037",
+          "selfRunFlag": "20",
+          "shopId": "2000001660",
+          "skuId": "2000318587",
+          "skuState": "4",
+          "skuStatus": "1",
+          "slogan": "你想要的品质，我们都有",
+          "thumbUrl": "/gree-mall-v3/2022/10/9/4f18606e75c34076b7e6d6548575eda4.jpeg"
+        },
+        {
+          "activityLabels": [
+            "以旧换新"
+          ],
+          "activityType": "50",
+          "downAndUpStatus": true,
+          "inStore": true,
+          "inventory": "985",
+          "marketPrice": "0.01",
+          "materialCode": "KB359N02600",
+          "newProduct": false,
+          "originalPrice": "0.01",
+          "productAttribute": [],
+          "productId": "2002987348",
+          "productName": "测试-商品售后2",
+          "salesVolume": "15996",
+          "selfRunFlag": "20",
+          "shopId": "2000001660",
+          "skuId": "2000318575",
+          "skuState": "4",
+          "skuStatus": "1",
+          "slogan": "你想要的品质，我们都有",
+          "thumbUrl": "/gree-mall-v3/2022/9/28/8674119d559e43fba34ba11812f874ae.jpg"
+        },
+        {
+          "activityLabels": [],
+          "activityType": "",
+          "downAndUpStatus": true,
+          "inStore": true,
+          "inventory": "5",
+          "marketPrice": "0.01",
+          "materialCode": "MK6666-JHY",
+          "newProduct": false,
+          "originalPrice": "8100.33",
+          "productAttribute": [
+            "属性1",
+            "属性2",
+            "属性3"
+          ],
+          "productId": "2002987504",
+          "productName": "1108洗衣机测试用",
+          "salesVolume": "9888",
+          "selfRunFlag": "20",
+          "shopId": "2000001394",
+          "skuId": "2000318812",
+          "skuState": "4",
+          "skuStatus": "1",
+          "slogan": "很长的广告语很长的广告语很长的广告语很长的广告语很长的广告语很长的广告语很长的广告语很长的广告语很长的广告语很长的广告语很长的广告语很长的广告语",
+          "thumbUrl": "/gree-mall-v3/2022/11/8/6995c5c646aa46c4b1df3bc8e4eb1e3a.png"
+        },
+        {
+          "activityLabels": [
+            "新品"
+          ],
+          "activityType": "",
+          "downAndUpStatus": true,
+          "inStore": true,
+          "inventory": "214",
+          "marketPrice": "0.01",
+          "materialCode": "MK6666-ZZ",
+          "newProduct": true,
+          "originalPrice": "2966.13",
+          "productAttribute": [
+            "金毛",
+            "萨摩耶",
+            "哈士奇"
+          ],
+          "productId": "2002987512",
+          "productName": "6蓝小1108测试邹（勿动）",
+          "salesVolume": "7403",
+          "selfRunFlag": "20",
+          "shopId": "2000001394",
+          "skuId": "2000318825",
+          "skuState": "4",
+          "skuStatus": "1",
+          "slogan": "哆啦A梦哆啦A梦哆啦A梦",
+          "thumbUrl": "/gree-mall-v3/2022/11/8/64a904de92cc4df08bd462146b1b3402.png"
+        },
+        {
+          "activityLabels": [
+            "新品"
+          ],
+          "activityType": "",
+          "downAndUpStatus": true,
+          "inStore": true,
+          "inventory": "40",
+          "marketPrice": "0.01",
+          "materialCode": "MK3333-ZZ",
+          "newProduct": true,
+          "originalPrice": "2399.80",
+          "productAttribute": [
+            "1",
+            "2",
+            "3"
+          ],
+          "productId": "2002987512",
+          "productName": "3白小1108测试邹（勿动）",
+          "salesVolume": "7403",
+          "selfRunFlag": "20",
+          "shopId": "2000001394",
+          "skuId": "2000318822",
+          "skuState": "4",
+          "skuStatus": "1",
+          "slogan": "AAAAAAAAAAAAAA",
+          "thumbUrl": "/gree-mall-v3/2022/11/8/45bfed7bcbbb45e19bb1e6f943bd94c9.jpeg"
+        },
+        {
+          "activityLabels": [
+            "新品"
+          ],
+          "activityType": "",
+          "downAndUpStatus": true,
+          "inStore": true,
+          "inventory": "20",
+          "marketPrice": "0.01",
+          "materialCode": "MK1111-ZZ",
+          "newProduct": true,
+          "originalPrice": "7000.99",
+          "productAttribute": [
+            "测试1",
+            "测试2",
+            "测试3"
+          ],
+          "productId": "2002987512",
+          "productName": "1白大1108测试邹（勿动）",
+          "salesVolume": "7403",
+          "selfRunFlag": "20",
+          "shopId": "2000001394",
+          "skuId": "2000318820",
+          "skuState": "4",
+          "skuStatus": "1",
+          "slogan": "我的广告语很长我的广告语很长我的广告语很长我的广告语很长我的广告语很长我的广告语很长我的广告语很长我的广告语很长",
+          "thumbUrl": "/gree-mall-v3/2022/11/8/52d38d0e350c4d35a4b466faebd2be50.jpeg"
+        }
+      ],
+      "current": 1,
+      "lastSortValues": [
+        1.0,
+        1.0,
+        7395.604395604397,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        2.0,
+        0.0,
+        1.001,
+        2.00031882E9
+      ],
+      "moneyOffLabel": "",
+      "pages": 0,
+      "size": 10,
+      "sortKey": 20,
+      "sortValue": 20,
+      "threeLevelCategoryList": [
+        {
+          "shopThreeCid": "95744",
+          "shopThreeName": "测试星期三",
+          "shopThreeUrl": "/gree-mall-v3/2022/11/14/4b7971b6f9204b93928353193771ba89.jpeg"
+        },
+        {
+          "shopThreeCid": "95746",
+          "shopThreeName": "皮卡丘",
+          "shopThreeUrl": "/gree-mall-v3/2022/11/15/9321c005470d4b0fbb228e1013082330.jpeg"
+        },
+        {
+          "shopThreeCid": "95459",
+          "shopThreeName": "移动空调",
+          "shopThreeUrl": "/gree-mall-v3/2022/9/5/dff3e20f6baa4f639ee00d8e1cd157a0.png"
+        },
+        {
+          "shopThreeCid": "95796",
+          "shopThreeName": "重复4",
+          "shopThreeUrl": "/gree-mall-v3/2022/12/19/490ba9fb88ea4f39bd7d5423352df3de.jpg"
+        },
+        {
+          "shopThreeCid": "95795",
+          "shopThreeName": "重复3",
+          "shopThreeUrl": "/gree-mall-v3/2022/12/19/5fcbed54a9b94129ba2b07d004ad8720.png"
+        },
+        {
+          "shopThreeCid": "95797",
+          "shopThreeName": "多订单22",
+          "shopThreeUrl": "/gree-mall-v3/2022/12/19/6761f5958efd4c97934fa8ea51587822.png"
+        },
+        {
+          "shopThreeCid": "95738",
+          "shopThreeName": "空调3",
+          "shopThreeUrl": "/gree-mall-v3/2022/11/3/d18444efda1a468990400444bc97945e.png"
+        },
+        {
+          "shopThreeCid": "95657",
+          "shopThreeName": "洗衣机",
+          "shopThreeUrl": "/gree-mall-v3/2022/9/22/e0ffdf20ae0447b8855f4b158728efdb.jpg"
+        },
+        {
+          "shopThreeCid": "95701",
+          "shopThreeName": "村上春树",
+          "shopThreeUrl": "/gree-mall-v3/2022/10/29/8fcd885203cc4a4d813f8161d18323ad.jpg"
+        },
+        {
+          "shopThreeCid": "95703",
+          "shopThreeName": "额41",
+          "shopThreeUrl": "/gree-mall-v3/2022/10/29/7d3093a7be864be29c645170ac3a1440.jpg"
+        },
+        {
+          "shopThreeCid": "95720",
+          "shopThreeName": "测试",
+          "shopThreeUrl": "/gree-mall-v3/2022/11/1/ea99a1538134428d9e01c6b45054d416.jpg"
+        },
+        {
+          "shopThreeCid": "95728",
+          "shopThreeName": "测试1",
+          "shopThreeUrl": "/gree-mall-v3/2022/11/1/80be3d9554704f62999f1d5cfd7c25ff.jpg"
+        },
+        {
+          "shopThreeCid": "95687",
+          "shopThreeName": "测试8",
+          "shopThreeUrl": "/gree-mall-v3/2022/9/22/498a3d709db54329bda6e370d007909e.png"
+        },
+        {
+          "shopThreeCid": "95716",
+          "shopThreeName": "测试111",
+          "shopThreeUrl": "/gree-mall-v3/2022/10/31/2c101c0bf26e4a3a821a48522c338d15.jpg"
+        },
+        {
+          "shopThreeCid": "95726",
+          "shopThreeName": "测试1",
+          "shopThreeUrl": "/gree-mall-v3/2022/11/1/1cd086b3793344bf8673e8d41db1d399.jpg"
+        },
+        {
+          "shopThreeCid": "95730",
+          "shopThreeName": "测试1",
+          "shopThreeUrl": "/gree-mall-v3/2022/11/1/e0243d38fdac4b87ad7a176f844495eb.jpg"
+        },
+        {
+          "shopThreeCid": "95838",
+          "shopThreeName": "洗衣机2号",
+          "shopThreeUrl": "/gree-mall-v3/2023/2/17/3a5958cb0da4408d8acc8a3fecdc846a.jpeg"
+        },
+        {
+          "shopThreeCid": "95722",
+          "shopThreeName": "测试1",
+          "shopThreeUrl": "/gree-mall-v3/2022/11/1/19652d6800f3440893f2ff16056d040e.jpg"
+        },
+        {
+          "shopThreeCid": "95724",
+          "shopThreeName": "测试1",
+          "shopThreeUrl": "/gree-mall-v3/2022/11/1/1d7241e07eb149f6a5607b84cbbd56ff.jpg"
+        },
+        {
+          "shopThreeCid": "95663",
+          "shopThreeName": "生活电器",
+          "shopThreeUrl": "/gree-mall-v3/2022/9/22/b3ff799f86ff40a397aa89113c729c89.jpg"
+        }
+      ],
+      "total": 0
+    },
+    "searchMode": 0,
+    "newProduct": true
+  },
+  "message": "Success",
+  "result": 0
+}
